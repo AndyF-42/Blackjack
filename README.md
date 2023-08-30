@@ -1,2 +1,2 @@
 # Blackjack
-Blackjack website.
+Blackjack website game
